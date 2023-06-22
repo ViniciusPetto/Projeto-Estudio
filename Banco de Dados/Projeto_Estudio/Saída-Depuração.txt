@@ -1,0 +1,25 @@
+﻿"Projeto_Estudio.exe" (CLR v4.0.30319: DefaultDomain): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: DefaultDomain): Carregado "F:\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe". Símbolos carregados.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "F:\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_32\System.EnterpriseServices\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.EnterpriseServices.Wrapper.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_pt-BR_b77a5c561934e089\mscorlib.resources.dll". O módulo foi criado sem símbolos.
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll". Carregamento de símbolos ignorado. O módulo está otimizado e a opção do depurador 'Apenas Meu Código' está habilitada.
+O thread 0x1d5f4 foi fechado com o código 0 (0x0).
+Conectado
+True
+True
+O thread 0x5338 foi fechado com o código 0 (0x0).
+"Projeto_Estudio.exe" (CLR v4.0.30319: Projeto_Estudio.exe): Carregado "C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms.resources\v4.0_4.0.0.0_pt-BR_b77a5c561934e089\System.Windows.Forms.resources.dll". O módulo foi criado sem símbolos.
+O thread 0x1e790 foi fechado com o código 0 (0x0).
+select * from Estudio_Aluno where CPFAluno = '057.348.688-33'
+O thread 0x2e10 foi fechado com o código 0 (0x0).
+O programa "[51444] Projeto_Estudio.exe" foi fechado com o código 0 (0x0).

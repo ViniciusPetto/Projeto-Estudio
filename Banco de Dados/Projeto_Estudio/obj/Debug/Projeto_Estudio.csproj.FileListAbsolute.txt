@@ -1,0 +1,211 @@
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe.config
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\Projeto_Estudio.pdb
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\ZstdNet.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe.config
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form1.resources
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\obj\Debug\Projeto_Estudio.Properties.Resources.resources
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CopyComplete
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe
+C:\Users\aluno\Desktop\aula\Projeto_Estudio\obj\Debug\Projeto_Estudio.pdb
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe.config
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.pdb
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Google.Protobuf.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\ZstdNet.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\BouncyCastle.Crypto.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Ubiety.Dns.Core.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\System.Memory.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\System.Buffers.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Hash.xxHash.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\System.Numerics.Vectors.dll
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.xml
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.AssemblyReference.cache
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe.config
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form1.resources
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Properties.Resources.resources
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.GenerateResource.cache
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CoreCompileInputs.cache
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CopyComplete
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.pdb
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form2.resources
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form3.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe.config
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.pdb
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Google.Protobuf.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\ZstdNet.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\BouncyCastle.Crypto.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Ubiety.Dns.Core.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\System.Memory.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\System.Buffers.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Hash.xxHash.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\System.Numerics.Vectors.dll
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.xml
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.AssemblyReference.cache
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe.config
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form1.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form2.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form3.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Properties.Resources.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.GenerateResource.cache
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CoreCompileInputs.cache
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CopyComplete
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.pdb
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form4.resources
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe.config
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.pdb
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\Google.Protobuf.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\ZstdNet.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\BouncyCastle.Crypto.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\Ubiety.Dns.Core.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\System.Memory.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\System.Buffers.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Hash.xxHash.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\System.Numerics.Vectors.dll
+E:\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.xml
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.AssemblyReference.cache
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe.config
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form1.resources
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form2.resources
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form3.resources
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form4.resources
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form5.resources
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Properties.Resources.resources
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.GenerateResource.cache
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CoreCompileInputs.cache
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CopyComplete
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.pdb
+E:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form6.resources
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form4.resources
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form5.resources
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form6.resources
+D:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form7.resources
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe.config
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.pdb
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\ZstdNet.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe.config
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form1.resources
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form2.resources
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form3.resources
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form4.resources
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form5.resources
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form6.resources
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form7.resources
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Properties.Resources.resources
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CopyComplete
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe
+C:\Users\aluno\Desktop\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.pdb
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe.config
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.pdb
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\Google.Protobuf.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\ZstdNet.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\BouncyCastle.Crypto.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\Ubiety.Dns.Core.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\System.Memory.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\System.Buffers.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Hash.xxHash.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\System.Numerics.Vectors.dll
+F:\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.xml
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.AssemblyReference.cache
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.SuggestedBindingRedirects.cache
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe.config
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form1.resources
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form2.resources
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form3.resources
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form4.resources
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form5.resources
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form6.resources
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form7.resources
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Properties.Resources.resources
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.GenerateResource.cache
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CoreCompileInputs.cache
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CopyComplete
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe
+F:\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.pdb
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe.config
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.exe
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Projeto_Estudio.pdb
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Google.Protobuf.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\ZstdNet.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\System.Memory.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\System.Buffers.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\bin\Debug\MySql.Data.xml
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe.config
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form1.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form2.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form3.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form4.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form5.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form6.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form7.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form8.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Properties.Resources.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.GenerateResource.cache
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.csproj.CopyComplete
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.exe
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.pdb
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form9.resources
+C:\Users\vinic\Documents\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form10.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form10.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form5.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form6.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form7.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form8.resources
+E:\COTIL\DAD\Banco de Dados\Projeto_Estudio\obj\Debug\Projeto_Estudio.Form9.resources
